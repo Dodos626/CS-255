@@ -1,7 +1,7 @@
 # hy-255/n
-lesson about C second year second semester
+lesson about C second year second semester/n/n
 
-ask 1 : 
+ask 1 : /n/t
         fsm translator from iso8859-7 to iso8859-1
 ask 2 :
         A String Module that implements some of the functions found in string.h
