@@ -1,6 +1,6 @@
 # hy-255
 
-lesson about C second year second semester\n
+lesson about C second year second semester
 
 <h2>ask 1 :</h2>
         fsm translator from iso8859-7 to iso8859-1<br>
