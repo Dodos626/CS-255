@@ -1,4 +1,4 @@
-# hy-255
+# hy-255/n
 lesson about C second year second semester
 
 ask 1 : 
